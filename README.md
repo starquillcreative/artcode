@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...github
 - 🌱 I’m currently learning ...github
-- 👯 I’m looking to collaborate on ...gihub
+- 👯 I’m looking to collaborate on ...github
 - 🤔 I’m looking for help with ...github
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
